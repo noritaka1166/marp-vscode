@@ -437,7 +437,7 @@
     "unist-util-visit": "^5.0.0",
     "util": "^0.12.5",
     "vscode-uri": "^3.1.0",
-    "webpack": "^5.101.0",
+    "webpack": "^5.105.0",
     "webpack-cli": "^6.0.1",
     "yaml": "^2.8.1"
   },
