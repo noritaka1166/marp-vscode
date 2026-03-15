@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## v3.4.0 - 2026-03-15
+
 ### Breaking
 
 - VS Code v1.101.0 and later is now required ([#547](https://github.com/marp-team/marp-vscode/pull/547))
