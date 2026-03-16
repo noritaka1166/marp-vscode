@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## v3.4.1 - 2026-03-16
+
 ### Fixed
 
 - Upgrade Marp CLI to [v4.3.1](https://github.com/marp-team/marp-cli/releases/tag/v4.3.1) ([#548](https://github.com/marp-team/marp-vscode/pull/548))
